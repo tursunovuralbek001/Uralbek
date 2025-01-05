@@ -6,3 +6,7 @@ html{-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}
 #menu_button{text-decoration:none;font-size:28px}
 #logotip{padding-left:16px;font-size:26px}
 #menu_button,#logotip{color:#02A4D3;font-family:"Oswald";font-weight:bold}
+#close{float:right!important;margin-right:20px;padding:0 10px;background:red;
+    color: #fff;
+    font-size: 14px;
+}
