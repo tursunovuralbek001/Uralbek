@@ -21,6 +21,6 @@ document.getElementById('clock').innerHTML =  h + ":" + m + ":" + s;
 }
 
 function checkTime(i) {
-  if (i < 10) {i = "0" + i};  // add zero in front of numbers < 10 margin-top:50px;
+  if (i < 10) {i = "0" + i};  // add zero in front of numbers < 10
   return i;
 }
