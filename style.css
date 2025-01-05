@@ -2,6 +2,11 @@ html{box-sizing:border-box}*,*:before,*:after{box-sizing:inherit}
 html{-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}
 /* v1.0.0 (050125) • Uralbek Tursunov • @uralbek_uz */
 #top {
+    position: fixed;
+    width: 100%;
+    z-index: 1;
     top: 0;
-    color: blue;
+    background: #fff;
+    box-shadow:0 4px 4px 0 rgba(0,0,0,0.12),0 4px 4px 0 rgba(0,0,0,0.20)
 }
+op: 0;
