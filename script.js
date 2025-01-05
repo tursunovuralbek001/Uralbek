@@ -1,7 +1,7 @@
-function w3_open() {
+function ochish() {
   document.getElementById("mySidebar").style.display = "block";
 }
 
-function w3_close() {
+function yopish() {
   document.getElementById("mySidebar").style.display = "none";
 }
