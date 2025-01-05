@@ -7,9 +7,5 @@ html{-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}
 #logotip{padding-left:16px;font-size:26px}
 #menu,#logotip{color:#02A4D3;font-family:"Oswald";font-weight:bold}
 #close{float:right!important;margin-right:20px;padding:0 10px;background:red;color:#fff;font-size:14px}
-#clock{margin-top: 50px;
-    margin-left: 20px;
-    font-size: 16px;
-    color: #000;
-}
+#clock{margin-top:50px;margin-left:20px;font-size:16px;color:#000}
 #menu_button{display:block;text-decoration:none;font-size:18px;padding:4px 18px;border-bottom:1px solid #ccc}
