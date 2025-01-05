@@ -3,4 +3,5 @@ html{-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}
 /* v1.0.0 (050125) • Uralbek Tursunov • @uralbek_uz */
 #top {
     top: 0;
+    color: blue;
 }
