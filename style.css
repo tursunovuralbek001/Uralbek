@@ -3,8 +3,8 @@ html{-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}
 /* v1.0.0 (050125) • Uralbek Tursunov • @uralbek_uz */
 #top{position:fixed;width:100%;z-index:1;top:0;background:#fff;box-shadow:0 4px 4px 0 rgba(0,0,0,0.12),0 4px 4px 0 rgba(0,0,0,0.20)}
 #header{padding-top:4px;padding-left:22px;padding-bottom:4px}
-#menu_button{text-decoration:none;font-size:28px}
+#menu{text-decoration:none;font-size:28px}
 #logotip{padding-left:16px;font-size:26px}
-#menu_button,#logotip{color:#02A4D3;font-family:"Oswald";font-weight:bold}
+#menu,#logotip{color:#02A4D3;font-family:"Oswald";font-weight:bold}
 #close{float:right!important;margin-right:20px;padding:0 10px;background:red;color:#fff;font-size:14px}
-#border-bottom{display:block;text-decoration:none;font-size:18px;padding: 4px 18px}
+#border_button{display:block;text-decoration:none;font-size:18px;padding: 4px 18px}
