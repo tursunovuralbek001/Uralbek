@@ -13,9 +13,6 @@ html{-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}
 table {
     width: 100%;
     border-collapse: collapse;
-    -webkit-user-select: none;
-    -ms-user-select: none;
-    user-select: none;
 }
 td,th {
     text-align: left!important;
@@ -32,3 +29,5 @@ abbey {
     background: #4C4F56;
     padding: 4px 32px;
 }
+
+/* 
