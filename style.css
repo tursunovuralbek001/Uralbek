@@ -22,6 +22,9 @@ td,th {
     border: 1px solid #ccc;
     padding: 4px 18px;
 }
+th {
+    
+}
 #unicode {
     display: inline-block;
     color: #ff9800;
