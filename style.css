@@ -17,6 +17,9 @@ table {
     -ms-user-select: none;
     user-select: none;
 }
+td,th {
+    
+}
 #unicode {
     display: inline-block;
     color: #ff9800;
