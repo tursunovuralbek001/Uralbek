@@ -11,6 +11,8 @@ html{-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}
 #menu_button{display:block;text-decoration:none;font-size:14px;padding:4px 18px;border-bottom:1px solid #ccc}
 
 table {
+    width: 100%;
+    border-collapse: collapse;
     -webkit-user-select: none;
     -ms-user-select: none;
     user-select: none;
