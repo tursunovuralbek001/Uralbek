@@ -18,6 +18,7 @@ table {
 #unicode {
     color: #ff9800;
     font-family: Monospace;
+    text-decoration: none;
 }
 abbey {
     background: #4C4F56;
