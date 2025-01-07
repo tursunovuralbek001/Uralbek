@@ -16,6 +16,7 @@ table {
     user-select: none;
 }
 #unicode {
+    display: inline-block;
     color: #ff9800;
     font-family: Monospace;
     text-decoration: none;
