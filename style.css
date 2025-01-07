@@ -19,7 +19,6 @@ table {
 }
 td,th {
     border: 1px solid #ccc;
-    display: inline-block;
     padding: 4px 18px;
 }
 #unicode {
