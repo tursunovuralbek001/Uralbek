@@ -14,7 +14,7 @@ html{-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}
     border-radius: 30% 0 0 30%;
 }
 #oldingi,#keyingi {
-    padding: 0 12px;
+    padding: 2px 12px;
     background: #02A4D3;
     color: #fff;
     font-weight: 700;
