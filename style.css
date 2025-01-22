@@ -17,6 +17,7 @@ html{-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}
     padding: 4px 18px;
     background: #02A4D3;
     color: #fff;
+    font-weight: 700;
     font-size: 14px;
     text-decoration: none;
 }
